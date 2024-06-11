@@ -6,3 +6,4 @@ buy a camera
 
 make bug
 clean the code
+Do python coding
