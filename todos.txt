@@ -1,9 +1,6 @@
 prepare
 sit tight
-play
-fix
 buy a camera
 buy a range rovermake bug
 clean the code
 Do python coding
-Wow
