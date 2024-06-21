@@ -4,7 +4,7 @@ import time
 import os
 
 if not os.path.exists("todos.txt"):
-    with open("todos.tx", "w") as file:
+    with open("todos.txt", "w") as file:
         pass
 
 sg.theme("LightBlue5")
